@@ -1,5 +1,4 @@
 # index.html
-# branch.rodape
 # Projeto Individual - Modulo UC00617
 
 # descrição
