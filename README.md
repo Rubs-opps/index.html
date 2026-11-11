@@ -6,4 +6,5 @@ Página web de apresentação sobre (A minha cidade). O objetivo do projeto é d
 
 # como usar
 1.Clona o repositório ou faz o download dos ficheiros.
+
 2.Abre o ficheiro index.hmtl em qualquer navegador web.
