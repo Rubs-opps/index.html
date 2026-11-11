@@ -1,0 +1,15 @@
+Passos para fazer este trabalho.
+
+1. Criar um repositório público chamado projeto-tocha.
+2. Adicionar os ficheiros: index.html, README.md, .gitignore e LICENSE.
+3. Criar uma branch chamada "menu" e fazer uma alteração no menu, commit e push.
+4. Fazer um Pull Request do menu para main, com o título e a descrição, e fazer merge.
+5. Criar uma branch chamada "conteudo" e fazer uma alteração pequena numa secção do site, commit e push.
+6. Abrir um Pull Request para a main, com título e descrição e depois fazer merge.
+7. Confirmar que main tem as duas alterações.
+8. Criar uma tag/release chamada v1.0.
+9. Abrir o GitHub Pages (Settings > Pages) se quiseres publicar o site; escolher main e /root.
+10. Copiar o link do repositório para o documento PDF e preencher os campos necessarios.
+11. Entregar o PDF e o link no Classroom.
+
+IMPORTANTE:Nunca escrever nenhuma informacao sensivel no repositorio.
