@@ -1,4 +1,3 @@
-# index.html
 # Projeto Individual - Modulo UC00617
 
 # Tocha - A cidade onde vivo
